@@ -26,3 +26,6 @@ Amend
 Hello world
 
 Welcome to commit 2
+
+Welcome to commit 3
+
