@@ -1,0 +1,23 @@
+Important commands:
+
+Init
+Remote
+Status
+Add
+Commit
+Clone
+Fork
+Log
+Push
+Pull
+Fetch
+Checkout
+Revert
+Reset
+Cherry-pick
+Stash
+Diff
+Rebase
+Squash
+Merge
+Amend
