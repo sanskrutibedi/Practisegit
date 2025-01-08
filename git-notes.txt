@@ -24,3 +24,5 @@ Amend
 
 
 Hello world
+
+Welcome to commit 2
